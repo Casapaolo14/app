@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}COSE DA FARE}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Assignment 1}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Assignment 2}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Sketching}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Wireframe}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}OPZIONALI}{3}{}%
